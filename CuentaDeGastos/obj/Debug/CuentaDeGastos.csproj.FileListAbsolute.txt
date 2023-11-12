@@ -1,0 +1,94 @@
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+C:\Users\MEM-MEX-VR\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+D:\Desktop\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+C:\Users\Carlos\OneDrive - MacLean Engineering and Marketing\Escritorio\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+D:\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+D:\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+D:\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+D:\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.AssemblyReference.cache
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+C:\Users\CSOLIS\OneDrive - MacLean Engineering and Marketing\Escritorio\Proyectos Windows\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe.config
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.exe
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\bin\Debug\CuentaDeGastos.pdb
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.CargarXML.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.HomePage.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.LoadingForm.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.Properties.Resources.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReportedeHoras.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.ReporteGasolina.resources
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.GenerateResource.cache
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.CoreCompileInputs.cache
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
+C:\Facturas\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\CuentaDeGastos\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\CuentaDeGastos\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\CuentaDeGastos\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.exe
+C:\Users\Asus\Desktop\CuentaDeGastos\CuentaDeGastos\CuentaDeGastos\obj\Debug\CuentaDeGastos.pdb
